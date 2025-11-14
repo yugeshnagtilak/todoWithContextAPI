@@ -1,3 +1,3 @@
 # todoWithContextAPI
 
-This Todo list is craeted using UseContext.
+This Todo list is created using UseContext.
